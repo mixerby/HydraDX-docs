@@ -1,26 +1,32 @@
-# HydraDX-docs
+---
+description: Here you will find all the information on how to run the HydraDX node.
+---
 
-## Installation
+# HydraDX Node Guide
 
-```console
-yarn install
-```
+{% hint style="info" %}
+Guide updated: 26.02.21
+{% endhint %}
 
-## Local Development
+![](.gitbook/assets/screenshot-2021-02-12-at-05.56.32.png)
 
-```console
-yarn start
-```
+## Contacts
 
-This command starts a local development server and open up a browser window. Most changes are reflected live without having to restart the server.
+If you have questions, suggestions or you want to help with guides, feel free to contact me:
 
-## Build
+discord: `MiX#3572`
 
-```console
-yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
+telegram: `@mixerby`
 
 
-Built using [Docusaurus 2](https://v2.docusaurus.io/).
+
+
+
+
+
+
+
+
+
+
+
